@@ -2544,11 +2544,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #6E521E;
+					color: #0F99D2;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #6E521E;
+					color: #0F99D2;
 				}
 
 				.wrapper.style3 .icon.major:before {
@@ -3022,7 +3022,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: #8A6B02;
+				background: #0F99D2;
 				content: '';
 				display: block;
 				height: 100%;
@@ -3049,6 +3049,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 50em;
 			-ms-flex: 1;
+			flex: 1;
 		}
 
 			.spotlights > section > .content > .inner {
@@ -3248,19 +3249,19 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #6E521E;
+			background-color: #04396C;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #6E521E;
+			background-color: #04396C;
 		}
 
 		.wrapper.style3 {
-			background-color: #AC141F;
+			background-color: #031F4B;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #AC141F;
+			background-color: #031F4B;
 		}
 
 		.wrapper.fullscreen {
